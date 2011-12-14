@@ -1,0 +1,7 @@
+# Description
+
+A theme for Textmate 2 based on Ryan Bates' Railscasts.
+
+# Installation
+
+* Clone into ~/Library/Application Support/Avian/Bundles/
