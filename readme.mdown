@@ -4,4 +4,7 @@ A theme for Textmate 2 based on Ryan Bates' [Railscasts](http://railscasts.com).
 
 # Installation
 
-Download the [railscasts theme](https://github.com/downloads/natebird/railscasts-textmate-theme/Railscasts.tmbundle). Double click to install.
+```bash
+cd ~/Library/Application\ Support/TextMate/Managed/Bundles/
+curl -O https://github.com/downloads/natebird/railscasts-textmate-theme/Railscasts.tmbundle
+```
