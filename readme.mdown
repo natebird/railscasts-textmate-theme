@@ -1,7 +1,7 @@
 # Description
 
-A theme for Textmate 2 based on Ryan Bates' Railscasts.
+A theme for Textmate 2 based on Ryan Bates' [Railscasts](http://railscasts.com).
 
 # Installation
 
-* Clone into ~/Library/Application Support/TextMate/Bundles/
+Download the [railscasts theme](https://github.com/downloads/natebird/railscasts-textmate-theme/Railscasts.tmbundle). Double click to install.
