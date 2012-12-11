@@ -8,3 +8,9 @@ A theme for Textmate 2 based on Ryan Bates' [Railscasts](http://railscasts.com).
 cd ~/Library/Application\ Support/TextMate/Managed/Bundles/
 curl -O http://cloud.github.com/downloads/natebird/railscasts-textmate-theme/Railscasts.tmbundle -o Railscasts.tmbundle.tgz
 ```
+
+or
+
+Grab the bundle from [Downloads](https://github.com/natebird/railscasts-textmate-theme/downloads). 
+
+Drop in ~/Library/Application Support/TextMate/Managed/Bundles/
