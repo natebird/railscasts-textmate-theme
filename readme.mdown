@@ -6,5 +6,5 @@ A theme for Textmate 2 based on Ryan Bates' [Railscasts](http://railscasts.com).
 
 ```bash
 cd ~/Library/Application\ Support/TextMate/Managed/Bundles/
-curl -O https://github.com/downloads/natebird/railscasts-textmate-theme/Railscasts.tmbundle
+curl -O http://cloud.github.com/downloads/natebird/railscasts-textmate-theme/Railscasts.tmbundle -o Railscasts.tmbundle.tgz
 ```
